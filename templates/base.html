@@ -1,0 +1,27 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link href="{% static 'css\base.css' %}" rel="stylesheet">
+</head>
+<body>
+<div id="header">
+    <span class="logo"> User Authentication</span>
+    {% if request.user.is_authenticated %}
+        <ul class="menu">
+            <li {% if section == "profile"  %} class="selected" {% endif %}>
+                <a href="{% url 'profile' %}">My Profile</a>
+            </li>
+        </ul>
+    {% endif %}
+</div>
+<div id="content">
+    {% block content %}
+    {% endblock %}
+
+</div>
+</body>
+</html>
