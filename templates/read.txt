@@ -8,3 +8,5 @@ sob page banaisi r link korsi all are working ....akhn j ja kaj korbi html page 
 css,navebar ,javascript a keu haat dis na ...just page er body ta hard coded design kor ...
 
 Rizvi added now
+
+page gula without css just basic design korbo amra...boootstrap dea
