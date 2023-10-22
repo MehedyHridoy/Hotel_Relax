@@ -10,3 +10,5 @@ css,navebar ,javascript a keu haat dis na ...just page er body ta hard coded des
 Rizvi added now
 
 page gula without css just basic design korbo amra...boootstrap dea
+
+Ami Mehedi..... Amar pycharm MATRO thick hoise
