@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="54579edf-16fa-448d-a47c-b0fd82a39676" name="Changes" comment=" Commit by MEHEDIIII">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <workItem from="1697972805039" duration="715000" />
       <workItem from="1697979949677" duration="291000" />
       <workItem from="1697980367907" duration="476000" />
-      <workItem from="1697999179497" duration="5045000" />
+      <workItem from="1697999179497" duration="5542000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit by neon">
       <option name="closed" value="true" />
@@ -131,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697981887498</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" Commit by MEHEDIIII">
+      <option name="closed" value="true" />
+      <created>1698004540142</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698004540142</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
