@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54579edf-16fa-448d-a47c-b0fd82a39676" name="Changes" comment=" Commit by MEHEDIIII" />
+    <list default="true" id="54579edf-16fa-448d-a47c-b0fd82a39676" name="Changes" comment=" Commit by MEHEDIIII">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contract.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/contract.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/nave.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/nave.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/reservation.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/reservation.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,6 +88,8 @@
       <workItem from="1697980367907" duration="476000" />
       <workItem from="1697999179497" duration="5542000" />
       <workItem from="1698004792919" duration="166000" />
+      <workItem from="1698005388728" duration="107000" />
+      <workItem from="1698041104703" duration="8841000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit by neon">
       <option name="closed" value="true" />
@@ -145,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698004906180</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" Commit by MEHEDIIII">
+      <option name="closed" value="true" />
+      <created>1698005485425</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698005485425</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
