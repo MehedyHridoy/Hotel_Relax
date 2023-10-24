@@ -29,7 +29,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'authentications',  # First priority application
+    'authentications',# First priority application
+    'reservations',
     'django.contrib.admin',  # We are going to use this app for auth
     'django.contrib.auth',
     'django.contrib.contenttypes',
