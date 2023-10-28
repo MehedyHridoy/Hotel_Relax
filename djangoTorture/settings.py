@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'authentications',# First priority application
     'reservations',
     'foods',
+    'orders',
     'django.contrib.admin',  # We are going to use this app for auth
     'django.contrib.auth',
     'django.contrib.contenttypes',

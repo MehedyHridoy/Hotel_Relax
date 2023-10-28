@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54579edf-16fa-448d-a47c-b0fd82a39676" name="Changes" comment=" Commit by MEHEDIIII" />
+    <list default="true" id="54579edf-16fa-448d-a47c-b0fd82a39676" name="Changes" comment=" Commit by MEHEDIIII">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoTorture/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTorture/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoTorture/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTorture/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoTorture/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTorture/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foods/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/foods/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/order.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -37,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -97,7 +109,10 @@
       <workItem from="1698212549239" duration="416000" />
       <workItem from="1698306484026" duration="7824000" />
       <workItem from="1698316619317" duration="2569000" />
-      <workItem from="1698319688352" duration="667000" />
+      <workItem from="1698319688352" duration="318000" />
+      <workItem from="1698326188502" duration="4602000" />
+      <workItem from="1698342996371" duration="1543000" />
+      <workItem from="1698490144092" duration="4296000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit by neon">
       <option name="closed" value="true" />
@@ -211,15 +226,7 @@
       <option name="project" value="LOCAL" />
       <updated>1698319968707</updated>
     </task>
-    <task id="LOCAL-00015" summary=" Commit by MEHEDIIII">
-      <option name="closed" value="true" />
-      <created>1698320045762</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1698320045762</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

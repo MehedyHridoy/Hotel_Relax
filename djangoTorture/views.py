@@ -1,5 +1,7 @@
 from django.shortcuts import render
 
+from foods.models import Food
+
 
 def home(request):
     return render(request, 'home.html')
@@ -8,7 +10,10 @@ def home(request):
 def menu(request):
     return render(request, 'menu.html')
 def order(request):
-    return render(request, 'order.html' )
+    foods = Food.objects.all()
+    return render(request, 'order.html', {
+        "foods": foods
+    })
 def reservation(request):
     return render(request, 'reservation.html' )
 def contract(request):
