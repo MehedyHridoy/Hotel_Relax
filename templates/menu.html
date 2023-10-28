@@ -182,7 +182,11 @@
 
         <div class="row">
             <div class="col-lg-6 text-center m-auto">
+                 {% if user.is_authenticated %}
                 <a href="{% url 'order-food' %}" type="button" class="btn btn-info">Order Now </a>
+                {% else %}
+                <a href="{% url 'login' %}" type="button" class="btn btn-info">Order Now</a>
+                {% endif %}
             </div>
         </div>
 
