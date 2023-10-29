@@ -6,8 +6,8 @@ from reviews import forms
 
 # Create your views here.
 
-def review(request, id):
-    user = User.objects.get(pk=id)
+def review(request):
+    # user = User.objects.get(pk=id)
 
     if request.method=='POST':
         rev_form = forms.ReviewForm(request.POST or None)
@@ -22,6 +22,6 @@ def review(request, id):
     else:
         rev_form = forms.ReviewForm(request.POST or None)
     return render(request, 'review_form.html',{
-        'user':user,
+        # 'user':user,
         'rev_form':rev_form
     })
