@@ -28,4 +28,6 @@ urlpatterns = [
     path('contract/', views.contract, name='contract'),
     path('reservations/', include('reservations.urls')),
     path('/orders',include('orders.urls')),
+    path('orders-new/',include('orders_new.urls')),
+    path('reviews/', include('reviews.urls')),
 ]

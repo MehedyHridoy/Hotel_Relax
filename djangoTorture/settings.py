@@ -33,6 +33,8 @@ INSTALLED_APPS = [
     'reservations',
     'foods',
     'orders',
+    'reviews',
+    'orders_new',
     'django.contrib.admin',  # We are going to use this app for auth
     'django.contrib.auth',
     'django.contrib.contenttypes',

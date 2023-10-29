@@ -7,6 +7,6 @@ class FoodOrderingForm(forms.ModelForm):
     class Meta:
         model = Order
         fields = [
-           'foods',
+            'foods',
             'quantity',
         ]

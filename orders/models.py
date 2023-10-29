@@ -11,3 +11,6 @@ class Order(models.Model):
     foods = models.ManyToManyField(Food)
     quantity = models.IntegerField()
 
+    # def __str__(self):
+    #     return self.user.username + '->' + self.foods.name
+
